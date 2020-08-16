@@ -3,15 +3,13 @@
 
 In the project directory, you can run:
 
-## `Step 1`
 
-### `npm i`
+### ` 1: npm i`
 
 Install the dependencies.
 
-## `Step 2`
 
-### `npm run start-dev`
+### `2: npm run start-dev`
 
 Runs dev server on http://localhost:8080 and client on http://localhost:9000.<br />
 
