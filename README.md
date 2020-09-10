@@ -1,5 +1,5 @@
 
-## Khanh Test Example
+## React simple login
 
 In the project directory, you can run:
 
